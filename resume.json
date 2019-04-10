@@ -1,0 +1,179 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "work": "Work Experiance",
+    "education": "Education",
+    "skills": "Technical Skills",
+    "projects": "Projects"
+  },
+  "basics": {
+    "name": "Himanshu Rastogi",
+    "phone": "(+91) 9058613131",
+    "email": "xhimanshuz@protonmail.com",
+    "location": {
+      "address": "Delhi"
+    },
+    "website": "https://github.com/xhimanshuz"
+  },
+  "education": [
+    {
+      "location": "Noida",
+      "area": "Computer Science",
+      "institution": "Chaudhary Charan Singh",
+      "studyType": "Bachelor of Computer Application",
+      "startDate": "2015",
+      "endDate": "2018"
+    }
+  ],
+  "work": [
+    {
+      "location": "Bengaluru",
+      "website": "",
+      "startDate": "Dec 2018",
+      "highlights": [
+        "Wrote and maintained Qt/C++ based custom translation application which bypasses validator of Qt translation file. With auto-export to RCC resource file support and auto translation from Yendex api support.",
+        "Added existing application dynamic setting feature which works on XML. XML reflect Settings UI and vice-versa.",
+        "Implemented libcurl  support to company's existing application on Windows.",
+        "Created collection of Sensor Demo in Qt/C++ for pthinks."
+      ],
+      "company": "Pthinks",
+      "position": "Qt/C++ Trainee",
+      "endDate": "Mar 2019"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "GNU/Linux",
+        "Unix",
+        "Windows",
+        "MacOS"
+      ],
+      "name": "Operating System"
+    },
+    {
+      "keywords": [
+        "C/C++",
+        "Qt",
+        "Python",
+        "SQL",
+        "Shell"
+      ],
+      "name": "Programming Languages"
+    },
+    {
+      "keywords": [
+        "Nginx"
+      ],
+      "name": "Server Software"
+    },
+    {
+      "keywords": [
+        "Wordpress",
+        "Google Anaylics"
+      ],
+      "name": "Web Technologies"
+    },
+    {
+      "keywords": [
+        "GNU Make",
+        "QMake",
+        "CMake",
+        "MSBuild"
+      ],
+      "name": "Build System"
+    },
+    {
+      "keywords": [
+        "SQLite",
+        "MySQL",
+        "MsSQL"
+      ],
+      "name": "Database"
+    },
+    {
+      "keywords": [
+        "SSH",
+        "Qt Creator",
+        "Visual Studio"
+      ],
+      "name": "Other Tools"
+    }
+  ],
+  "projects": [
+    {
+      "description": "It is a todo list, task tracking and note making application with auto-saving and multiple tab managing features.",
+      "url": "https://github.com/xhimanshuz/qPadNote",
+      "keywords": [
+        "C++",
+        "Qt",
+        "SQLite"
+      ],
+      "name": "qPadNote"
+    },
+    {
+      "keywords": [
+        "C/C++",
+        "Qt",
+        "libCurl"
+      ],
+      "name": "CurlUD",
+      "description": "CurlUD is a C++ based application with Qt library for GUI which helps you to upload and download files to/from server with the help of curl library.",
+      "url": "https://github.com/xhimanshuz/curlud"
+    },
+    {
+      "keywords": [
+        "Python",
+        "Gtk+",
+        "Nginx"
+      ],
+      "name": " GEMP",
+      "description": "A web server services configuration application developed in python3 with Gtk+. It controls and configure all stack services for you.",
+      "url": "https://github.com/xhimanshuz/GEMP"
+    },
+    {
+      "keywords": [
+        "Python",
+        "Gtk+",
+        "JSON"
+      ],
+      "name": " FlashyPi",
+      "description": " A tool to flash Raspberry Pi OSs on SD Cards and flashdrives. It can either flash the chosen OS or only format the drive for installing bootloaders like Berryboot, NOOBS, PINNS. and also set the partition size according to your requirement.",
+      "url": "https://github.com/xhimanshuz/FlashyPi"
+    },
+    {
+      "keywords": [
+        "Python"
+      ],
+      "name": "ngxManager - Multiple host manager",
+      "description": "It is Python based script to host Nginx Multiple website on a single system.",
+      "url": "https://github.com/xhimanshuz/ngxManager"
+    },
+    {
+      "keywords": [
+        "C++",
+        "SFML Library"
+      ],
+      "name": "SFML - Distance-between-2-objects",
+      "description": "Simple program which shows distance between two objects, if they are colliding then object 2 color change randomly. It is written in C++ with SFML Library. ",
+      "url": "https://github.com/xhimanshuz/SFML-Distance-between-2-objects"
+    }
+  ],
+  "awards": [
+    {
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "work",
+    "projects",
+    "skills",
+    "education",
+    "awards"
+  ]
+}
