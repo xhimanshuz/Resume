@@ -1,5 +1,5 @@
 {
-  "selectedTemplate": 1,
+  "selectedTemplate": 2,
   "headings": {
     "work": "Work Experiance",
     "education": "Education",
@@ -27,17 +27,29 @@
   ],
   "work": [
     {
-      "location": "Bengaluru",
+      "location": "April 2019",
       "website": "",
-      "startDate": "Dec 2018",
+      "startDate": "Present",
       "highlights": [
-        "Wrote and maintained Qt/C++ based custom translation application which bypasses validator of Qt translation file. With auto-export to RCC resource file support and auto translation from Yendex api support.",
-        "Added existing application dynamic setting feature which works on XML. XML reflect Settings UI and vice-versa.",
+        "Developed Low Latency Application Server in C++.",
+        "Developed GUI with the help of Qt Framwork for Server to control and monitor orders in realtime.",
+        "Optimize Application which is getting <8 microsecond latency for sending orders.",
+        "Cleared Borsa Stock Exchange Certification for Application Approval. "
+      ],
+      "company": "HFTSolution",
+      "position": "C/C++ Developer",
+      "endDate": "Mar 2019"
+    },
+    {
+      "highlights": [
         "Implemented libcurl  support to company's existing application on Windows.",
-        "Created collection of Sensor Demo in Qt/C++ for pthinks."
+        "Added existing application dynamic setting feature which works on XML. XML reflect Settings UI and vice-versa.",
+        "Wrote and maintained Qt/C++ based custom translation application which bypasses validator of Qt translation file. With auto-export to RCC resource file support and auto translation from Yendex api support."
       ],
       "company": "Pthinks",
       "position": "Qt/C++ Trainee",
+      "location": "Bengaluru",
+      "startDate": "Dec 2018",
       "endDate": "Mar 2019"
     }
   ],
@@ -54,11 +66,10 @@
     },
     {
       "keywords": [
-        "C/C++",
-        "Qt",
+        "C/C++ (Qt, Boost)",
         "Python",
         "SQL",
-        "Shell"
+        "Shell Script"
       ],
       "name": "Programming Languages"
     },
@@ -79,8 +90,7 @@
       "keywords": [
         "GNU Make",
         "QMake",
-        "CMake",
-        "MSBuild"
+        "CMake"
       ],
       "name": "Build System"
     },
@@ -96,7 +106,10 @@
       "keywords": [
         "SSH",
         "Qt Creator",
-        "Visual Studio"
+        "Visual Studio",
+        "Git",
+        "Emacs",
+        "Vim"
       ],
       "name": "Other Tools"
     }
