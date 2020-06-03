@@ -10,9 +10,6 @@
     "name": "Himanshu Rastogi",
     "phone": "(+91) 9058613131",
     "email": "xhimanshuz@protonmail.com",
-    "location": {
-      "address": "Delhi"
-    },
     "website": "https://github.com/xhimanshuz"
   },
   "education": [
@@ -66,7 +63,7 @@
     },
     {
       "keywords": [
-        "C/C++ (Qt, Boost)",
+        "C/C++ (Qt, Boost, Boost.Asio, OUCH, FIX)",
         "Python",
         "SQL",
         "Shell Script"
@@ -184,9 +181,9 @@
     "templates",
     "profile",
     "work",
-    "projects",
     "skills",
-    "education",
-    "awards"
+    "projects",
+    "awards",
+    "education"
   ]
 }
