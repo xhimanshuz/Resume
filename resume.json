@@ -63,9 +63,8 @@
     },
     {
       "keywords": [
-        "C/C++ (Qt, Boost, Boost.Asio, OUCH, FIX)",
-        "Python",
-        "SQL",
+        "C/C++ (Qt, Boost, Asio, OUCH, FIX)",
+        "Python (PyQt, selenium, Flask)",
         "Shell Script"
       ],
       "name": "Programming Languages"
@@ -78,8 +77,7 @@
     },
     {
       "keywords": [
-        "Wordpress",
-        "Google Anaylics"
+        "Wordpress"
       ],
       "name": "Web Technologies"
     },
@@ -95,7 +93,8 @@
       "keywords": [
         "SQLite",
         "MySQL",
-        "MsSQL"
+        "MsSQL",
+        "mongoDB"
       ],
       "name": "Database"
     },
