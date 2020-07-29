@@ -27,10 +27,10 @@
       "website": "",
       "startDate": "Present",
       "highlights": [
-        "Developed Low Latency Application Server in C++.",
+        "Developed Low Latency Application in C++.",
         "Developed GUI with the help of Qt Framwork for Server to control and monitor orders in realtime.",
         "Optimize Application make it send orders with in  <8 microsecond latency.",
-        "Cleared Borsa Stock Exchange Certification for Application Approval. "
+        "Cleared Borsa Stock Exchange Certification for Trading Application Approval. "
       ],
       "company": "HFTSolution",
       "position": "C/C++ Developer",
