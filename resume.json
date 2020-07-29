@@ -8,8 +8,7 @@
   },
   "basics": {
     "name": "Himanshu Rastogi",
-    "phone": "(+91) 9058613131",
-    "email": "xhimanshuz@protonmail.com",
+    "email": "hireme@xhimanshuz.xyz",
     "website": "https://github.com/xhimanshuz"
   },
   "education": [
@@ -94,7 +93,7 @@
         "SQLite",
         "MySQL",
         "MsSQL",
-        "mongoDB"
+        "MongoDB"
       ],
       "name": "Database"
     },
