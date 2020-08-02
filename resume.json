@@ -18,7 +18,7 @@
   "education": [
     {
       "location": "Noida",
-      "area": "- Computer Science",
+      "area": "( Computer Science )",
       "institution": "Chaudhary Charan Singh",
       "studyType": "Bachelor of Computer Application",
       "startDate": "2015",
@@ -154,7 +154,7 @@
         "MongoDB"
       ],
       "url": "https://github.com/xhimanshuz/qPadNote-CloudServer/",
-      "description": "Server Application to send, receive and store qPadNote Data on Server over network, So Client can use it from anywhere.",
+      "description": "Server Application to send, receive and store qPadNote Data on Server over network using Socket Programming with Boost.Asio, So Client can use it from anywhere.",
       "name": "qPadNote Cloud Server"
     },
     {
