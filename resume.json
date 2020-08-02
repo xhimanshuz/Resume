@@ -1,20 +1,24 @@
 {
-  "selectedTemplate": 2,
+  "selectedTemplate": 9,
   "headings": {
     "work": "Work Experiance",
     "education": "Education",
     "skills": "Technical Skills",
-    "projects": "Projects"
+    "projects": "Side Projects"
   },
   "basics": {
     "name": "Himanshu Rastogi",
-    "email": "hiremehimanshu@xhimanshuz.xyz",
-    "website": "https://github.com/xhimanshuz"
+    "email": "hiremehimanshu@gmail.com",
+    "website": "https://github.com/xhimanshuz",
+    "location": {
+      "address": "India"
+    },
+    "phone": "(+91) 9058613131"
   },
   "education": [
     {
       "location": "Noida",
-      "area": "Computer Science",
+      "area": "- Computer Science",
       "institution": "Chaudhary Charan Singh",
       "studyType": "Bachelor of Computer Application",
       "startDate": "2015",
@@ -27,10 +31,18 @@
       "website": "",
       "startDate": "Present",
       "highlights": [
-        "Developed Low Latency Application in C++.",
-        "Developed GUI with the help of Qt Framwork for Server to control and monitor orders in realtime.",
-        "Optimize Application make it send orders with in  <8 microsecond latency.",
-        "Cleared Borsa Stock Exchange Certification for Trading Application Approval. "
+        "High Frequency Trading Application: Write high frequency and low latency trading application for Borsa Stock Exchange in C/C++ with  libraries like Boost, NanoLog, Pistache, OUCH, Novaspark and SolarTrade  on Linux Operating System.",
+        "Optimize High Frequency Trading Application:  Optimize trading application to make it send orders in 8 microseconds, lowest latency in Borsa stock exchange on testhing Hardware.",
+        "Real Time GUI Application: Write Graphical User Interface application for High Frequency Trading Application in C/C++ with Boost and Qt5 Library to control and observe real time orders. Also send manual order and Start and Stop Strategies from it on Win32 and Linux Operating Systems..",
+        "Cleared Borsa Stock Exchange Certification..",
+        "Integrate FIX Engine: Later integrate FIXEngine library to handle FIX protocol in  low latency application.",
+        "Licence Checker: Write script to check project source code and license on Github in Python 3 with request library and github api. ",
+        "FXCM Trading Application: Write multi threaded FXCM trading server application which perform BUY/SELL action by tensorflow prediction model and backtrading in Python 3 with libaries like logging, Pandas and Flask for REST API server.",
+        "GUI for FXCM Application: Write GUI Client for FXCM server Application in C/C++ with Qt library on Windows System.",
+        "Auto Login Bot: Write Auto login script on GUI application like trading workstation in Python 3 with pyautogui module.",
+        "Integrate Telegram, Email and Discord Bot in existing application.",
+        "Developed Scraping bot in Python 3 with the help of selenium to scrape reviews for data procession and machine learning model training.",
+        "Automate and fix existing application for Docker Containers."
       ],
       "company": "HFTSolution",
       "position": "C/C++ Developer",
@@ -38,8 +50,8 @@
     },
     {
       "highlights": [
-        "Implemented libcurl  support to company's existing application on Windows.",
-        "Added existing application dynamic setting feature which works on XML. XML reflect Settings UI and vice-versa.",
+        "Build libCurl static Library with all its dependencies like zlib, openSSL from scratch in Visual Studio 2013 and integrate to company's existing application in C on Windows System. ",
+        "Added existing application dynamic setting feature in C/C++ with Qt library, which  reflects according to XML file and visa-versa.",
         "Wrote and maintained Qt/C++ based custom translation application which bypasses validator of Qt translation file. With auto-export to RCC resource file support and auto translation from Yendex api support."
       ],
       "company": "Pthinks",
@@ -62,7 +74,7 @@
     },
     {
       "keywords": [
-        "C/C++ (Qt, Boost, Asio, OUCH, FIX)",
+        "C/C++11/14 (STL, Qt, Boost, Asio, OUCH, FIX)",
         "Python (PyQt, selenium, Flask)",
         "Shell Script"
       ],
@@ -92,57 +104,72 @@
       "keywords": [
         "SQLite",
         "MySQL",
-        "MsSQL",
+        "MSSQL",
         "MongoDB"
       ],
       "name": "Database"
     },
     {
       "keywords": [
-        "SSH",
         "Qt Creator",
+        "Visual Studio Code",
         "Visual Studio",
         "Git",
         "Emacs",
-        "Vim"
+        "Vim",
+        "Docker",
+        "GDB"
       ],
       "name": "Other Tools"
+    },
+    {
+      "keywords": [
+        ""
+      ],
+      "name": " ."
+    },
+    {
+      "keywords": [
+        ""
+      ]
     }
   ],
   "projects": [
     {
-      "description": "It is a todo list, task tracking and note making application with auto-saving and multiple tab managing features.",
+      "description": "A todo list, task tracking and note making Graphical application with auto-saving and multiple tab managing features for Cross-Platform systems.",
       "url": "https://github.com/xhimanshuz/qPadNote",
       "keywords": [
-        "C++",
+        "C/C++",
         "Qt",
-        "SQLite"
+        "SQLite",
+        "Asio"
       ],
       "name": "qPadNote"
     },
     {
       "keywords": [
+        "C++",
+        "Boost",
+        "Asio",
+        "MongoDB"
+      ],
+      "url": "https://github.com/xhimanshuz/qPadNote-CloudServer/",
+      "description": "Server Application to send, receive and store qPadNote Data on Server over network, So Client can use it from anywhere.",
+      "name": "qPadNote Cloud Server"
+    },
+    {
+      "keywords": [
         "C/C++",
-        "Qt",
-        "libCurl"
+        "libCurl",
+        "Qt"
       ],
-      "name": "CurlUD",
-      "description": "CurlUD is a C++ based application with Qt library for GUI which helps you to upload and download files to/from server with the help of curl library.",
-      "url": "https://github.com/xhimanshuz/curlud"
+      "name": " CurlUD",
+      "url": "https://github.com/xhimanshuz/curlud",
+      "description": "CurlUD is a C++ based application with Qt library for GUI which helps you to upload and download files to/from server with the help of curl library."
     },
     {
       "keywords": [
-        "Python",
-        "Gtk+",
-        "Nginx"
-      ],
-      "name": " GEMP",
-      "description": "A web server services configuration application developed in python3 with Gtk+. It controls and configure all stack services for you.",
-      "url": "https://github.com/xhimanshuz/GEMP"
-    },
-    {
-      "keywords": [
-        "Python",
+        "Python 3",
         "Gtk+",
         "JSON"
       ],
@@ -152,7 +179,7 @@
     },
     {
       "keywords": [
-        "Python"
+        "Python 3"
       ],
       "name": "ngxManager - Multiple host manager",
       "description": "It is Python based script to host Nginx Multiple website on a single system.",
@@ -166,6 +193,16 @@
       "name": "SFML - Distance-between-2-objects",
       "description": "Simple program which shows distance between two objects, if they are colliding then object 2 color change randomly. It is written in C++ with SFML Library. ",
       "url": "https://github.com/xhimanshuz/SFML-Distance-between-2-objects"
+    },
+    {
+      "keywords": [
+        "Python 3",
+        "Gtk+",
+        "Nginx"
+      ],
+      "url": "https://github.com/xhimanshuz/GEMP",
+      "description": "A web server services configuration application developed in python3 with Gtk+. It controls and configure all stack services for you.",
+      "name": "GEMP"
     }
   ],
   "awards": [
