@@ -36,13 +36,13 @@
         "Real Time GUI Application: Write Graphical User Interface application for High Frequency Trading Application in C/C++ with Boost and Qt5 Library to control and observe real time orders. Also send manual order and Start and Stop Strategies from it on Win32 and Linux Operating Systems..",
         "Cleared Borsa Stock Exchange Certification..",
         "Integrate FIX Engine: Later integrate FIXEngine library to handle FIX protocol in  low latency application.",
-        "Licence Checker: Write script to check project source code and license on Github in Python 3 with request library and github api. ",
+        "Optimize OuickFix Engine: Make existing QuickFix Engine 10x Faster for receiving  market data more quickly with valid data.",
         "FXCM Trading Application: Write multi threaded FXCM trading server application which perform BUY/SELL action by tensorflow prediction model and backtrading in Python 3 with libaries like logging, Pandas and Flask for REST API server.",
         "GUI for FXCM Application: Write GUI Client for FXCM server Application in C/C++ with Qt library on Windows System.",
         "Auto Login Bot: Write Auto login script on GUI application like trading workstation in Python 3 with pyautogui module.",
         "Integrate Telegram, Email and Discord Bot in existing application.",
         "Developed Scraping bot in Python 3 with the help of selenium to scrape reviews for data procession and machine learning model training.",
-        "Automate and fix existing application for Docker Containers."
+        "Licence Checker: Write script to check project source code and license on Github in Python 3 with request library and github api. "
       ],
       "company": "HFTSolution",
       "position": "C/C++ Developer",
