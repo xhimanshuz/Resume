@@ -74,9 +74,9 @@
     },
     {
       "keywords": [
-        "C/C++11/14 (STL, Qt, Boost, Asio, OUCH, FIX)",
+        "C/C++11/14 (STL, Qt, Boost, Asio, OUCH, QuickFIX)",
         "Python (PyQt, selenium, Flask)",
-        "Shell Script"
+        "Shell"
       ],
       "name": "Programming Languages"
     },
