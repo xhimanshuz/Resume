@@ -1,14 +1,14 @@
 {
   "selectedTemplate": 9,
   "headings": {
-    "work": "Work Experiance",
+    "work": "Work Experience",
     "education": "Education",
     "skills": "Technical Skills",
     "projects": "Side Projects"
   },
   "basics": {
     "name": "Himanshu Rastogi",
-    "email": "hireme@xhimanshuz.xyz",
+    "email": "hiremehimanshu@gmail.com",
     "website": "https://github.com/xhimanshuz",
     "location": {
       "address": "India"
@@ -31,18 +31,17 @@
       "website": "",
       "startDate": "Present",
       "highlights": [
-        "High Frequency Trading Application: Write high frequency and low latency trading application for Borsa Stock Exchange in C/C++ with  libraries like Boost, NanoLog, Pistache, OUCH, Novaspark and SolarTrade  on Linux Operating System.",
-        "Optimize High Frequency Trading Application:  Optimize trading application to make it send orders in 8 microseconds, lowest latency in Borsa stock exchange on testhing Hardware.",
-        "Real Time GUI Application: Write Graphical User Interface application for High Frequency Trading Application in C/C++ with Boost and Qt5 Library to control and observe real time orders. Also send manual order and Start and Stop Strategies from it on Win32 and Linux Operating Systems..",
-        "Cleared Borsa Stock Exchange Certification..",
-        "Integrate FIX Engine: Later integrate FIXEngine library to handle FIX protocol in  low latency application.",
-        "Optimize OuickFix Engine: Make existing QuickFix Engine 10x Faster for receiving  market data more quickly with valid data.",
-        "FXCM Trading Application: Write multi threaded FXCM trading server application which perform BUY/SELL action by tensorflow prediction model and backtrading in Python 3 with libaries like logging, Pandas and Flask for REST API server.",
+        "High-Frequency Trading Application: Write high frequency and low latency trading application for Borsa Stock Exchange in C/C++ with libraries like Boost, NanoLog, Pistache, OUCH, Novaspark, and SolarTrade on Linux Operating System.",
+        "Optimize High-Frequency Trading Application: Optimize trading application to make it send orders in 8 microseconds, lowest latency in Borsa stock exchange on testing Hardware.",
+        "Real-Time GUI Application: Write Graphical User Interface application for High-Frequency Trading Application in C/C++ with Boost and Qt5 Library to control and observe real-time orders. Also, send manual order and Start and Stop Strategies from it on Win32 and Linux Operating Systems.",
+        "Cleared Borsa Stock Exchange Certification.",
+        "Integrate FIX Engine: Later integrate FIXEngine library to handle FIX protocol in low latency application.",
+        "FXCM Trading Application: Write multi-threaded FXCM trading server application which performs BUY/SELL action by TensorFlow prediction model and back trading in Python 3 with libraries like logging, Pandas, and Flask for the REST API server. • GUI for FXCM Application: Write GUI Client for FXCM server Application in C/C++ with Qt library on Windows System.",
         "GUI for FXCM Application: Write GUI Client for FXCM server Application in C/C++ with Qt library on Windows System.",
-        "Auto Login Bot: Write Auto login script on GUI application like trading workstation in Python 3 with pyautogui module.",
-        "Integrate Telegram, Email and Discord Bot in existing application.",
+        "Auto Login Bot: Write Auto login script on GUI application like trading workstation in Python 3 with the pyautogui module.",
+        "Integrate Telegram, Email, and Discord Bot in existing applications.",
         "Developed Scraping bot in Python 3 with the help of selenium to scrape reviews for data procession and machine learning model training.",
-        "Licence Checker: Write script to check project source code and license on Github in Python 3 with request library and github api. "
+        "Licence Checker: Write a script to check project source code and license on Github in Python 3 with the request library and GitHub API."
       ],
       "company": "HFTSolution",
       "position": "C/C++ Developer",
@@ -66,31 +65,27 @@
       "level": "",
       "keywords": [
         "GNU/Linux",
-        "Unix",
-        "Windows",
-        "MacOS"
+        "Windows"
       ],
-      "name": "Operating System"
+      "name": "OS"
     },
     {
       "keywords": [
-        "C/C++11/14 (STL, Qt, Boost, Asio, OUCH, QuickFIX)",
+        "C, C++11/14 (STL, Qt, Boost, Asio, OUCH, QuickFIX)",
         "Python (PyQt, selenium, Flask)",
         "Shell"
       ],
-      "name": "Programming Languages"
+      "name": "Languages"
     },
     {
       "keywords": [
-        "Nginx"
+        "SQLite",
+        "MySQL",
+        "MSSQL",
+        "MongoDB",
+        "PostgreSQL"
       ],
-      "name": "Server Software"
-    },
-    {
-      "keywords": [
-        "Wordpress"
-      ],
-      "name": "Web Technologies"
+      "name": "Database"
     },
     {
       "keywords": [
@@ -98,45 +93,20 @@
         "QMake",
         "CMake"
       ],
-      "name": "Build System"
+      "name": "Build Tools"
     },
     {
       "keywords": [
-        "SQLite",
-        "MySQL",
-        "MSSQL",
-        "MongoDB"
-      ],
-      "name": "Database"
-    },
-    {
-      "keywords": [
-        "Qt Creator",
-        "Visual Studio Code",
-        "Visual Studio",
         "Git",
-        "Emacs",
-        "Vim",
         "Docker",
         "GDB"
       ],
       "name": "Other Tools"
-    },
-    {
-      "keywords": [
-        ""
-      ],
-      "name": " ."
-    },
-    {
-      "keywords": [
-        ""
-      ]
     }
   ],
   "projects": [
     {
-      "description": "A todo list, task tracking and note making Graphical application with auto-saving and multiple tab managing features for Cross-Platform systems.",
+      "description": "A todo list, task tracking, and note-making Graphical application with auto-saving and multiple tab managing features for Cross-Platform systems.",
       "url": "https://github.com/xhimanshuz/qPadNote",
       "keywords": [
         "C/C++",
@@ -154,7 +124,7 @@
         "MongoDB"
       ],
       "url": "https://github.com/xhimanshuz/qPadNote-CloudServer/",
-      "description": "Server Application to send, receive and store qPadNote Data on Server over network using Socket Programming with Boost.Asio, So Client can use it from anywhere.",
+      "description": "Server Application to send, receive, and store qPadNote Data on Server over the network using Socket Programming with Boost.Asio, So The client can use it from anywhere.",
       "name": "qPadNote Cloud Server"
     },
     {
@@ -165,7 +135,7 @@
       ],
       "name": " CurlUD",
       "url": "https://github.com/xhimanshuz/curlud",
-      "description": "CurlUD is a C++ based application with Qt library for GUI which helps you to upload and download files to/from server with the help of curl library."
+      "description": "CurlUD is a C++ based application with Qt library for GUI which helps you to upload and download files to/from the server with the help of the curl library."
     },
     {
       "keywords": [
@@ -174,7 +144,7 @@
         "JSON"
       ],
       "name": " FlashyPi",
-      "description": " A tool to flash Raspberry Pi OSs on SD Cards and flashdrives. It can either flash the chosen OS or only format the drive for installing bootloaders like Berryboot, NOOBS, PINNS. and also set the partition size according to your requirement.",
+      "description": "A tool to flash Raspberry Pi OSs on SD Cards and flash drives. It can either flash the chosen OS or only format the drive for installing bootloaders like Berryboot, NOOBS, PINNS. and also set the partition size according to your requirement.",
       "url": "https://github.com/xhimanshuz/FlashyPi"
     },
     {
@@ -182,7 +152,7 @@
         "Python 3"
       ],
       "name": "ngxManager - Multiple host manager",
-      "description": "It is Python based script to host Nginx Multiple website on a single system.",
+      "description": "It is a Python-based script to host Nginx Multiple websites on a single system.",
       "url": "https://github.com/xhimanshuz/ngxManager"
     },
     {
@@ -191,7 +161,7 @@
         "SFML Library"
       ],
       "name": "SFML - Distance-between-2-objects",
-      "description": "Simple program which shows distance between two objects, if they are colliding then object 2 color change randomly. It is written in C++ with SFML Library. ",
+      "description": "A simple program that shows the distance between two objects, if they are colliding then object 2 color change randomly. It is written in C++ with SFML Library.",
       "url": "https://github.com/xhimanshuz/SFML-Distance-between-2-objects"
     },
     {
@@ -201,7 +171,7 @@
         "Nginx"
       ],
       "url": "https://github.com/xhimanshuz/GEMP",
-      "description": "A web server services configuration application developed in python3 with Gtk+. It controls and configure all stack services for you.",
+      "description": "A web server services configuration application developed in python3 with Gtk+. It controls and configures all stack services for you.",
       "name": "GEMP"
     }
   ],
