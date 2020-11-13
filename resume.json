@@ -33,7 +33,7 @@
       "highlights": [
         "High-Frequency Trading Application: Write high frequency and low latency trading application for Borsa Stock Exchange in C/C++ with libraries like Boost, NanoLog, Pistache, OUCH, Novaspark, and SolarTrade on Linux Operating System.",
         "Optimize High-Frequency Trading Application: Optimize trading application to make it send orders in 8 microseconds, lowest latency in Borsa stock exchange on testing Hardware.",
-        "Real-Time GUI Application: Write Graphical User Interface application for High-Frequency Trading Application in C/C++ with Boost and Qt5 Library to control and observe real-time orders. Also, send manual order and Start and Stop Strategies from it on Win32 and Linux Operating Systems.",
+        "Integrate and Optimize FIX Engine 10x faster: Later integrate the FIXEngine library to handle FIX protocol in low latency application. Make it 10x faster in receiving and handling FIX messages.",
         "Cleared Borsa Stock Exchange Certification.",
         "Integrate FIX Engine: Later integrate FIXEngine library to handle FIX protocol in low latency application.",
         "FXCM Trading Application: Write multi-threaded FXCM trading server application which performs BUY/SELL action by TensorFlow prediction model and back trading in Python 3 with libraries like logging, Pandas, and Flask for the REST API server. • GUI for FXCM Application: Write GUI Client for FXCM server Application in C/C++ with Qt library on Windows System.",
