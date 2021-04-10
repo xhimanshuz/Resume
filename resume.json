@@ -71,7 +71,7 @@
     },
     {
       "keywords": [
-        "C, C++11/14 (STL, Qt, Boost, Asio, OUCH, QuickFIX)",
+        "C, C++11/14 (STL, Qt, Boost, Beast, Asio,, QuickFIX)",
         "Python (PyQt, selenium, Flask)",
         "Shell"
       ],
