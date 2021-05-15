@@ -181,7 +181,7 @@
         "Beast"
       ],
       "name": "Chutter-putter - Rendezvous Server",
-      "description": " Rendezvous Server to help client locate each and established peer-to-peer connection with TCP NAT Hole Puching technique mentioned in Bryan Ford's Paper's \"Peer-to-Peer Communication Across Network Address Translators\" ",
+      "description": " Rendezvous Server to help clients locate each and established peer-to-peer connection with TCP NAT Hole-Punching technique mentioned in Bryan Ford's Paper's \"Peer-to-Peer Communication Across Network Address Translators\" ",
       "url": "https://github.com/xhimanshuz/chutter-putter"
     },
     {
@@ -192,7 +192,7 @@
         "Boost.Json"
       ],
       "name": "Chutter-putter - P2P Client",
-      "description": "Chutter-putter is a P2P client, It is used to perform TCP Hole punching technique to make client connect to each other directly and Peer-to-peer connection..",
+      "description": "Chutter-putter is a P2P client, It is used to perform TCP Hole punching technique to make the client connect to each other directly and Peer-to-peer connection.",
       "url": "https://github.com/xhimanshuz/chutter-putter-client"
     }
   ],
